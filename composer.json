@@ -1,14 +1,14 @@
 {
-    "name": "slim/slim-skeleton",
+    "name": "burtscherflorian-scritex/slim-skeleton",
     "description": "A Slim Framework skeleton application for rapid development",
     "keywords": ["microframework", "rest", "router", "psr7"],
-    "homepage": "http://github.com/slimphp/Slim-Skeleton",
+    "homepage": "http://github.com/burtscherflorian-scritex/Slim-Skeleton",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "name": "Burtscher Florian",
+            "email": "florianburtscher@hotmail.com",
+            "homepage": "http://github.com/burtscherflorian-scritex"
         }
     ],
     "require": {
@@ -20,9 +20,9 @@
     "require-dev": {
         "phpunit/phpunit": ">=4.8 < 6.0"
     },
-    "autoload-dev": {
+    "autoload": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "App\\": "app/"
         }
     },
     "config": {
