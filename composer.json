@@ -1,14 +1,14 @@
 {
-    "name": "burtscherflorian-scritex/slim-skeleton",
+    "name": "burtscherflorian/slim-skeleton",
     "description": "A Slim Framework skeleton application for rapid development",
     "keywords": ["microframework", "rest", "router", "psr7", "slimphp"],
-    "homepage": "http://github.com/burtscherflorian-scritex/Slim-Skeleton",
+    "homepage": "http://github.com/burtscherflorian/Slim-Skeleton",
     "license": "MIT",
     "authors": [
         {
             "name": "Burtscher Florian",
             "email": "florianburtscher@hotmail.com",
-            "homepage": "http://github.com/burtscherflorian-scritex"
+            "homepage": "http://github.com/burtscherflorian"
         }
     ],
     "require": {
