@@ -3,7 +3,7 @@
     "description": "A Slim Framework skeleton application for rapid development",
     "keywords": ["microframework", "rest", "router", "psr7", "slimphp"],
     "homepage": "http://github.com/burtscherflorian-scritex/Slim-Skeleton",
-    "license": "LICENCE.md",
+    "license": "MIT",
     "authors": [
         {
             "name": "Burtscher Florian",
